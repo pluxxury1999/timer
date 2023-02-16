@@ -45,7 +45,7 @@ startButton.addEventListener('click', function() {
                 hours.innerHTML = hrs;
             }
         }
-    }, 10);
+    }, 1000);
 });
 
 pauseButton.addEventListener('click', function() {
